@@ -19,7 +19,7 @@ namespace WindowsService1
             if (Environment.UserInteractive)
             {
                 Service1 service1 = new Service1();
-                service1.TestStartupAndStop();//first test commit after init
+                service1.TestStartupAndStop();//first test commit after init dfgdfg
             }
             else
             {
